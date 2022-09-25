@@ -1,0 +1,17 @@
+body{
+font-family: sans-serif;
+background-color: antiquewhite;
+}
+
+h1{
+    color: rgba(24, 24, 231, 0.744);
+}
+
+img{
+    max-width: 100%;
+    background-color: aqua;
+}
+
+.inspring{
+    margin-left: 40px;
+}
