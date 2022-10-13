@@ -1,6 +1,7 @@
 body{
 font-family: sans-serif;
 background-color: #53d2dc;
+
 }
 
 
@@ -24,5 +25,10 @@ img{
 
 .inspring{
     margin-left: 40px;
+
+}
+
+p{
+    color: #ffc05f;
 }
 
