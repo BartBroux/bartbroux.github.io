@@ -1,15 +1,15 @@
 body{
 font-family: sans-serif;
-background-color: rgb(127, 112, 83);
+background-color: #53d2dc;
 }
 
 
-.rood{
-    background-color: rgb(183, 65, 14);
+.achtergrond{
+    background-color: #3196e2;
 }
 
 h1{
-    color: rgb(131, 121, 88);
+    color: #ff826c;
     margin-left: 100px;
 }
 
