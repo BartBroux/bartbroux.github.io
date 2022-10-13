@@ -13,6 +13,10 @@ h1{
     margin-left: 100px;
 }
 
+h2{
+    color: #ffc05f;
+}
+
 img{
     max-width: 100%;
 }
@@ -20,3 +24,4 @@ img{
 .inspring{
     margin-left: 40px;
 }
+
