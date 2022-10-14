@@ -17,6 +17,9 @@ h1{
 h2{
     color: #ffc05f;
     text-align: center;
+    block-size: auto;
+    inline-size: auto;
+
 }
 
 img{
